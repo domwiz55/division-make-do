@@ -1,0 +1,4 @@
+<p id="demo">
+<script>
+document.getElementById("demo").innerHTML = 5/2;
+</script>
